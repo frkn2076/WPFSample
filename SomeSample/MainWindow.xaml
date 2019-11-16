@@ -1,0 +1,25 @@
+﻿<Window x:Class="SomeSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SomeSample"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        WindowState="Maximized"
+        WindowStyle="None"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown"
+        MouseRightButtonDown="Window_MouseRightButtonDown">
+    <Grid Name="MyGrid">
+        <Grid.Background>
+            <ImageBrush ImageSource="Source/source1.jpg"/>
+        </Grid.Background>
+        <Button Name="MyEllipse">
+            <Button.Template>
+                <ControlTemplate>
+                    <Ellipse Name="myEclipse" Fill="Brown" HorizontalAlignment="Left" Height="15" Margin="0,0,0,0" Stroke="Black" VerticalAlignment="Top" Width="15"/>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+    </Grid>
+</Window>

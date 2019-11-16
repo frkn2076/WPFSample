@@ -1,0 +1,14 @@
+C:\Users\Furkan\source\repos\SomeSample\SomeSample\obj\Debug\SomeSample.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\SomeSample\SomeSample\obj\Debug\MainWindow.g.cs
+C:\Users\Furkan\source\repos\SomeSample\SomeSample\obj\Debug\App.g.cs
+C:\Users\Furkan\source\repos\SomeSample\SomeSample\obj\Debug\SomeSample_MarkupCompile.cache
+C:\Users\Furkan\source\repos\SomeSample\SomeSample\obj\Debug\SomeSample_MarkupCompile.lref
+C:\Users\Furkan\source\repos\SomeSample\SomeSample\bin\Debug\SomeSample.exe.config
+C:\Users\Furkan\source\repos\SomeSample\SomeSample\bin\Debug\SomeSample.exe
+C:\Users\Furkan\source\repos\SomeSample\SomeSample\bin\Debug\SomeSample.pdb
+C:\Users\Furkan\source\repos\SomeSample\SomeSample\obj\Debug\MainWindow.baml
+C:\Users\Furkan\source\repos\SomeSample\SomeSample\obj\Debug\SomeSample.g.resources
+C:\Users\Furkan\source\repos\SomeSample\SomeSample\obj\Debug\SomeSample.Properties.Resources.resources
+C:\Users\Furkan\source\repos\SomeSample\SomeSample\obj\Debug\SomeSample.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\SomeSample\SomeSample\obj\Debug\SomeSample.exe
+C:\Users\Furkan\source\repos\SomeSample\SomeSample\obj\Debug\SomeSample.pdb
