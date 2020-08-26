@@ -8,7 +8,6 @@
         Title="MainWindow"
         WindowState="Maximized"
         WindowStyle="None"
-        MouseLeftButtonDown="Window_MouseLeftButtonDown"
         MouseRightButtonDown="Window_MouseRightButtonDown">
     <Grid Name="MyGrid">
         <Grid.Background>
